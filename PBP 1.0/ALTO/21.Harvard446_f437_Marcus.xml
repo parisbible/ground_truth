@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2023-02-15T15:49:27.53+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="1784" WIDTH="1200">
+         <TopMargin HEIGHT="0" WIDTH="1200" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="1784" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="1784" WIDTH="0" VPOS="0" HPOS="1200"/>
+         <BottomMargin HEIGHT="0" WIDTH="1200" VPOS="1784" HPOS="0"/>
+         <PrintSpace HEIGHT="1784" WIDTH="1200" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1624277602727_502"
+                       HEIGHT="1131"
+                       WIDTH="354"
+                       VPOS="184"
+                       HPOS="101">
+               <Shape>
+                  <Polygon POINTS="101,184 455,184 455,1315 103,1315"/>
+               </Shape>
+               <TextLine ID="r2l4"
+                         BASELINE="121,226 146,227 172,228 197,229 223,229 248,229 274,229 299,229 325,229 350,229 376,229 401,229 427,229"
+                         HEIGHT="56"
+                         WIDTH="316"
+                         VPOS="186"
+                         HPOS="116">
+                  <String ID="string_r2l4"
+                          HEIGHT="56"
+                          WIDTH="316"
+                          VPOS="186"
+                          HPOS="116"
+                          CONTENT="copioſam ꝺeꝺ̕unt militibꝫ ꝺicenteᔆ ꝺi-"/>
+               </TextLine>
+               <TextLine ID="r2l5"
+                         BASELINE="120,247 145,249 171,251 196,252 222,253 247,253 273,253 298,253 324,252 349,252 375,252 400,252 426,253"
+                         HEIGHT="36"
+                         WIDTH="316"
+                         VPOS="230"
+                         HPOS="115">
+                  <String ID="string_r2l5"
+                          HEIGHT="36"
+                          WIDTH="316"
+                          VPOS="230"
+                          HPOS="115"
+                          CONTENT="cite q2 ꝺiſcipl̕i eiꝰ nocte uen̕unt ⁊ fura"/>
+               </TextLine>
+               <TextLine ID="r2l8"
+                         BASELINE="126,274 151,276 176,278 201,278 226,279 251,279 276,279 301,278 326,278 351,278 376,277 401,277 427,278"
+                         HEIGHT="40"
+                         WIDTH="311"
+                         VPOS="252"
+                         HPOS="121">
+                  <String ID="string_r2l8"
+                          HEIGHT="40"
+                          WIDTH="311"
+                          VPOS="252"
+                          HPOS="121"
+                          CONTENT="ti ſūt eū nob̕ ꝺoꝛmiētibꝫ ⁊ ſi hoc auꝺi-"/>
+               </TextLine>
+               <TextLine ID="r2l10"
+                         BASELINE="120,298 145,300 170,302 195,302 220,303 245,303 271,303 296,303 321,303 346,302 371,302 396,302 422,303"
+                         HEIGHT="27"
+                         WIDTH="312"
+                         VPOS="282"
+                         HPOS="115">
+                  <String ID="string_r2l10"
+                          HEIGHT="27"
+                          WIDTH="312"
+                          VPOS="282"
+                          HPOS="115"
+                          CONTENT="tū fúit a ꝑſiꝺe nos ſuaꝺebimꝰ illi ⁊ ſe-"/>
+               </TextLine>
+               <TextLine ID="r2l12"
+                         BASELINE="122,323 148,326 175,328 202,329 229,329 256,329 283,329 310,329 337,328 364,328 391,328 418,329"
+                         HEIGHT="33"
+                         WIDTH="306"
+                         VPOS="305"
+                         HPOS="117">
+                  <String ID="string_r2l12"
+                          HEIGHT="33"
+                          WIDTH="306"
+                          VPOS="305"
+                          HPOS="117"
+                          CONTENT="curos uos faciemꝰ ⁊ illi accepta pecu-"/>
+               </TextLine>
+               <TextLine ID="r2l14"
+                         BASELINE="125,352 151,353 178,354 204,354 231,355 258,355 284,355 311,356 338,356 364,356 391,355 418,355"
+                         HEIGHT="34"
+                         WIDTH="304"
+                         VPOS="331"
+                         HPOS="120">
+                  <String ID="string_r2l14"
+                          HEIGHT="34"
+                          WIDTH="304"
+                          VPOS="331"
+                          HPOS="120"
+                          CONTENT="nia fećunt ſic̄ e ꝺocti erāt. ⁊ ꝺiulga"/>
+               </TextLine>
+               <TextLine ID="r2l16"
+                         BASELINE="119,378 144,378 170,380 196,380 221,380 247,381 273,381 298,381 324,381 350,381 375,381 401,381 427,382"
+                         HEIGHT="31"
+                         WIDTH="318"
+                         VPOS="357"
+                         HPOS="114">
+                  <String ID="string_r2l16"
+                          HEIGHT="31"
+                          WIDTH="318"
+                          VPOS="357"
+                          HPOS="114"
+                          CONTENT="tū eſt ūbū iſtuꝺ ap̄ iuꝺeos uſꝫ ī hoꝺier"/>
+               </TextLine>
+               <TextLine ID="r2l18"
+                         BASELINE="121,406 146,405 172,405 197,406 223,406 248,406 274,407 300,407 325,408 351,408 376,408 402,408 428,407"
+                         HEIGHT="35"
+                         WIDTH="318"
+                         VPOS="386"
+                         HPOS="115">
+                  <String ID="string_r2l18"
+                          HEIGHT="35"
+                          WIDTH="318"
+                          VPOS="386"
+                          HPOS="115"
+                          CONTENT="nū ꝺiem. Unꝺecī aū diſcipuli abiert̄"/>
+               </TextLine>
+               <TextLine ID="r2l21"
+                         BASELINE="124,434 149,433 174,433 200,433 225,432 250,432 276,432 301,432 326,433 352,433 377,433 402,434 428,434"
+                         HEIGHT="33"
+                         WIDTH="314"
+                         VPOS="411"
+                         HPOS="119">
+                  <String ID="string_r2l21"
+                          HEIGHT="33"
+                          WIDTH="314"
+                          VPOS="411"
+                          HPOS="119"
+                          CONTENT="ī galileā ī montē uͥ cōſtituto ill̕ ih́u"/>
+               </TextLine>
+               <TextLine ID="r2l22"
+                         BASELINE="120,459 145,458 170,458 195,458 220,457 245,457 271,457 296,458 321,458 346,459 371,459 396,460 422,461"
+                         HEIGHT="34"
+                         WIDTH="312"
+                         VPOS="440"
+                         HPOS="115">
+                  <String ID="string_r2l22"
+                          HEIGHT="34"
+                          WIDTH="312"
+                          VPOS="440"
+                          HPOS="115"
+                          CONTENT="⁊ uidenteſ euͦ aꝺoꝛaúnt. qͥꝺam ā ꝺu"/>
+               </TextLine>
+               <TextLine ID="r2l25"
+                         BASELINE="117,484 142,484 167,483 192,483 218,483 243,483 268,484 293,484 319,484 344,485 369,485 394,486 420,487"
+                         HEIGHT="35"
+                         WIDTH="313"
+                         VPOS="461"
+                         HPOS="112">
+                  <String ID="string_r2l25"
+                          HEIGHT="35"
+                          WIDTH="313"
+                          VPOS="461"
+                          HPOS="112"
+                          CONTENT="biraúnt. ⁊ acceꝺenſ ih̄c locutꝰ ē eiſ ꝺi-"/>
+               </TextLine>
+               <TextLine ID="r2l27"
+                         BASELINE="115,511 140,511 165,510 191,510 216,509 242,509 267,510 292,510 318,510 343,511 369,511 394,512 420,512"
+                         HEIGHT="37"
+                         WIDTH="316"
+                         VPOS="486"
+                         HPOS="110">
+                  <String ID="string_r2l27"
+                          HEIGHT="37"
+                          WIDTH="316"
+                          VPOS="486"
+                          HPOS="110"
+                          CONTENT="cenſ. Data ē mͥ om̄iſ poteſtaſ ī celo ⁊"/>
+               </TextLine>
+               <TextLine ID="r2l29"
+                         BASELINE="118,535 144,536 171,536 198,536 225,536 252,535 279,535 306,536 333,536 360,536 387,537 414,538"
+                         HEIGHT="35"
+                         WIDTH="306"
+                         VPOS="512"
+                         HPOS="113">
+                  <String ID="string_r2l29"
+                          HEIGHT="35"
+                          WIDTH="306"
+                          VPOS="512"
+                          HPOS="113"
+                          CONTENT="in t́ra. Eunteſ gͦ docete om̄ſ gentes"/>
+               </TextLine>
+               <TextLine ID="r2l30"
+                         BASELINE="126,561 152,562 178,562 204,562 231,561 257,561 283,561 309,561 336,562 362,562 388,563 415,564"
+                         HEIGHT="32"
+                         WIDTH="299"
+                         VPOS="540"
+                         HPOS="121">
+                  <String ID="string_r2l30"
+                          HEIGHT="32"
+                          WIDTH="299"
+                          VPOS="540"
+                          HPOS="121"
+                          CONTENT="baptizanteſ eos ī nōie pat́s ⁊ filii ⁊"/>
+               </TextLine>
+               <TextLine ID="r2l33"
+                         BASELINE="128,587 154,586 180,586 206,586 232,586 258,586 284,587 310,587 336,587 362,588 388,588 414,588"
+                         HEIGHT="32"
+                         WIDTH="296"
+                         VPOS="566"
+                         HPOS="123">
+                  <String ID="string_r2l33"
+                          HEIGHT="32"
+                          WIDTH="296"
+                          VPOS="566"
+                          HPOS="123"
+                          CONTENT="ſp̄c ſc̄i; ꝺocentes eoꝫ śuare oīa q̄cūqꝫ"/>
+               </TextLine>
+               <TextLine ID="r2l35"
+                         BASELINE="115,612 142,611 169,611 196,611 223,611 250,611 278,611 305,611 332,612 359,612 386,612 414,613"
+                         HEIGHT="30"
+                         WIDTH="309"
+                         VPOS="592"
+                         HPOS="110">
+                  <String ID="string_r2l35"
+                          HEIGHT="30"
+                          WIDTH="309"
+                          VPOS="592"
+                          HPOS="110"
+                          CONTENT="manꝺaui nob́. Et ecce ego uob́cum"/>
+               </TextLine>
+               <TextLine ID="r2l37"
+                         BASELINE="124,637 149,638 174,638 199,638 224,638 249,637 274,637 299,637 324,637 349,637 374,638 399,639 424,640"
+                         HEIGHT="39"
+                         WIDTH="310"
+                         VPOS="613"
+                         HPOS="119">
+                  <String ID="string_r2l37"
+                          HEIGHT="39"
+                          WIDTH="310"
+                          VPOS="613"
+                          HPOS="119"
+                          CONTENT="ſum om̄ibꝫ ꝺiebꝫ uſꝫ aꝺ cōſūmatio"/>
+               </TextLine>
+               <TextLine ID="r2l39"
+                         BASELINE="122,665 147,665 173,664 198,664 224,663 249,663 275,663 300,663 326,663 351,664 377,664 402,664 428,665"
+                         HEIGHT="37"
+                         WIDTH="316"
+                         VPOS="641"
+                         HPOS="117">
+                  <String ID="string_r2l39"
+                          HEIGHT="37"
+                          WIDTH="316"
+                          VPOS="641"
+                          HPOS="117"
+                          CONTENT="nem ſeculi. Explic̄ euangͥ s̕ mthū"/>
+               </TextLine>
+               <TextLine ID="r2l41"
+                         BASELINE="254,692 282,690 311,690 340,689 368,690 397,690 426,692"
+                         HEIGHT="39"
+                         WIDTH="182"
+                         VPOS="666"
+                         HPOS="249">
+                  <String ID="string_r2l41"
+                          HEIGHT="39"
+                          WIDTH="182"
+                          VPOS="666"
+                          HPOS="249"
+                          CONTENT="Īcip̄ argum̾. euang̕"/>
+               </TextLine>
+               <TextLine ID="r2l43"
+                         BASELINE="251,716 279,717 308,718 337,718 365,717 394,717 423,718"
+                         HEIGHT="36"
+                         WIDTH="182"
+                         VPOS="693"
+                         HPOS="246">
+                  <String ID="string_r2l43"
+                          HEIGHT="36"
+                          WIDTH="182"
+                          VPOS="693"
+                          HPOS="246"
+                          CONTENT="arcuſ eunge s̕ m˜r"/>
+               </TextLine>
+               <TextLine ID="r2l45"
+                         BASELINE="225,747 252,744 280,743 308,743 335,743 363,744 391,744 419,743"
+                         HEIGHT="43"
+                         WIDTH="205"
+                         VPOS="715"
+                         HPOS="219">
+                  <String ID="string_r2l45"
+                          HEIGHT="43"
+                          WIDTH="205"
+                          VPOS="715"
+                          HPOS="219"
+                          CONTENT="liſta ꝺei electuſ cū"/>
+               </TextLine>
+               <TextLine ID="r2l47"
+                         BASELINE="247,772 274,771 301,771 328,770 355,770 382,770 410,770"
+                         HEIGHT="36"
+                         WIDTH="173"
+                         VPOS="748"
+                         HPOS="242">
+                  <String ID="string_r2l47"
+                          HEIGHT="36"
+                          WIDTH="173"
+                          VPOS="748"
+                          HPOS="242"
+                          CONTENT="⁊ pet̄ ī baptismate"/>
+               </TextLine>
+               <TextLine ID="r2l49"
+                         BASELINE="233,798 260,798 287,798 314,797 341,797 368,797 395,798 422,799"
+                         HEIGHT="35"
+                         WIDTH="199"
+                         VPOS="774"
+                         HPOS="228">
+                  <String ID="string_r2l49"
+                          HEIGHT="35"
+                          WIDTH="199"
+                          VPOS="774"
+                          HPOS="228"
+                          CONTENT="filiꝰ atqꝫ ī ꝺiuino s̕"/>
+               </TextLine>
+               <TextLine ID="r2l51"
+                         BASELINE="120,823 147,823 174,824 201,824 228,824 255,824 282,824 309,824 336,824 363,824 390,824 418,825"
+                         HEIGHT="28"
+                         WIDTH="308"
+                         VPOS="806"
+                         HPOS="115">
+                  <String ID="string_r2l51"
+                          HEIGHT="28"
+                          WIDTH="308"
+                          VPOS="806"
+                          HPOS="115"
+                          CONTENT="mone ꝺiſcipl̕s ſac̕ꝺotiū agenſ ī iſ"/>
+               </TextLine>
+               <TextLine ID="r2l53"
+                         BASELINE="126,852 152,851 179,850 205,850 232,850 259,850 285,850 312,850 339,850 365,850 392,850 419,849"
+                         HEIGHT="27"
+                         WIDTH="303"
+                         VPOS="832"
+                         HPOS="121">
+                  <String ID="string_r2l53"
+                          HEIGHT="27"
+                          WIDTH="303"
+                          VPOS="832"
+                          HPOS="121"
+                          CONTENT="rl̕ ſcꝺ́m carnē leuita. cōúſuſ aꝺ fi-"/>
+               </TextLine>
+               <TextLine ID="r2l55"
+                         BASELINE="116,877 142,878 168,878 194,878 220,878 246,878 272,878 298,877 324,877 350,877 376,878 402,878 428,878"
+                         HEIGHT="39"
+                         WIDTH="322"
+                         VPOS="851"
+                         HPOS="111">
+                  <String ID="string_r2l55"
+                          HEIGHT="39"
+                          WIDTH="322"
+                          VPOS="851"
+                          HPOS="111"
+                          CONTENT="ꝺē xp̄i eun̈gl̕ium in ẏtalia ſcͥpſit."/>
+               </TextLine>
+               <TextLine ID="r2l57"
+                         BASELINE="124,904 150,903 176,903 202,904 229,904 255,904 281,905 307,905 334,905 360,905 386,904 413,903"
+                         HEIGHT="36"
+                         WIDTH="299"
+                         VPOS="882"
+                         HPOS="119">
+                  <String ID="string_r2l57"
+                          HEIGHT="36"
+                          WIDTH="299"
+                          VPOS="882"
+                          HPOS="119"
+                          CONTENT="oſtenꝺit ī eo quiꝺ ⁊ gen̄i ſuo ꝺeb́t"/>
+               </TextLine>
+               <TextLine ID="r2l59"
+                         BASELINE="118,931 143,931 169,931 194,931 220,931 245,931 271,931 296,931 322,931 347,932 373,932 398,932 424,932"
+                         HEIGHT="39"
+                         WIDTH="316"
+                         VPOS="907"
+                         HPOS="113">
+                  <String ID="string_r2l59"
+                          HEIGHT="39"
+                          WIDTH="316"
+                          VPOS="907"
+                          HPOS="113"
+                          CONTENT="⁊ xp̄o. Nam initiū ṕncipii ī uoce ꝓ-"/>
+               </TextLine>
+               <TextLine ID="r2l61"
+                         BASELINE="124,957 151,958 178,958 205,958 232,958 259,958 286,958 313,957 340,957 367,957 394,958 422,958"
+                         HEIGHT="31"
+                         WIDTH="308"
+                         VPOS="936"
+                         HPOS="119">
+                  <String ID="string_r2l61"
+                          HEIGHT="31"
+                          WIDTH="308"
+                          VPOS="936"
+                          HPOS="119"
+                          CONTENT="phetie exclamatiōiſ inſtituēs oꝛ"/>
+               </TextLine>
+               <TextLine ID="r2l63"
+                         BASELINE="117,983 144,984 171,985 198,985 225,985 252,985 279,984 306,984 333,984 360,983 387,983 415,983"
+                         HEIGHT="29"
+                         WIDTH="308"
+                         VPOS="966"
+                         HPOS="112">
+                  <String ID="string_r2l63"
+                          HEIGHT="29"
+                          WIDTH="308"
+                          VPOS="966"
+                          HPOS="112"
+                          CONTENT="ꝺinē leuitice electiōiſ oſtenꝺit ut"/>
+               </TextLine>
+               <TextLine ID="r2l65"
+                         BASELINE="123,1010 150,1009 177,1009 204,1010 231,1010 258,1010 286,1010 313,1009 340,1009 367,1009 394,1008 422,1008"
+                         HEIGHT="37"
+                         WIDTH="309"
+                         VPOS="986"
+                         HPOS="118">
+                  <String ID="string_r2l65"
+                          HEIGHT="37"
+                          WIDTH="309"
+                          VPOS="986"
+                          HPOS="118"
+                          CONTENT="ṕdicanſ ioh̄em p̄deſtinatū filiū za-"/>
+               </TextLine>
+               <TextLine ID="r2l67"
+                         BASELINE="120,1035 145,1035 171,1035 197,1035 222,1035 248,1035 274,1035 299,1034 325,1034 351,1034 376,1033 402,1033 428,1033"
+                         HEIGHT="31"
+                         WIDTH="318"
+                         VPOS="1015"
+                         HPOS="115">
+                  <String ID="string_r2l67"
+                          HEIGHT="31"
+                          WIDTH="318"
+                          VPOS="1015"
+                          HPOS="115"
+                          CONTENT="charie ī uoce angeli annūtiatiſ e-"/>
+               </TextLine>
+               <TextLine ID="r2l69"
+                         BASELINE="121,1059 147,1059 174,1060 201,1060 228,1060 255,1060 282,1060 309,1059 336,1059 363,1059 390,1059 417,1060"
+                         HEIGHT="35"
+                         WIDTH="306"
+                         VPOS="1035"
+                         HPOS="116">
+                  <String ID="string_r2l69"
+                          HEIGHT="35"
+                          WIDTH="306"
+                          VPOS="1035"
+                          HPOS="116"
+                          CONTENT="miſſū uō ſolum u̕bum carnē fcm̄"/>
+               </TextLine>
+               <TextLine ID="r2l71"
+                         BASELINE="116,1085 142,1086 169,1086 196,1086 223,1086 250,1087 277,1087 304,1087 331,1087 358,1087 385,1086 412,1086"
+                         HEIGHT="33"
+                         WIDTH="306"
+                         VPOS="1067"
+                         HPOS="111">
+                  <String ID="string_r2l71"
+                          HEIGHT="33"
+                          WIDTH="306"
+                          VPOS="1067"
+                          HPOS="111"
+                          CONTENT="ſꝫ ⁊ coꝛpꝰ ꝺō in omīa ꝑ ūbū ꝺiuine"/>
+               </TextLine>
+               <TextLine ID="r2l73"
+                         BASELINE="119,1113 146,1113 173,1113 200,1114 227,1114 254,1114 281,1114 308,1113 335,1113 362,1113 389,1113 416,1112"
+                         HEIGHT="34"
+                         WIDTH="307"
+                         VPOS="1088"
+                         HPOS="114">
+                  <String ID="string_r2l73"
+                          HEIGHT="34"
+                          WIDTH="307"
+                          VPOS="1088"
+                          HPOS="114"
+                          CONTENT="uociſ aīatū initio eun̈gĺice ṕdi-"/>
+               </TextLine>
+               <TextLine ID="r2l75"
+                         BASELINE="111,1139 136,1139 162,1139 188,1140 214,1140 240,1140 266,1140 291,1139 317,1139 343,1139 369,1139 395,1139 421,1140"
+                         HEIGHT="31"
+                         WIDTH="320"
+                         VPOS="1119"
+                         HPOS="106">
+                  <String ID="string_r2l75"
+                          HEIGHT="31"
+                          WIDTH="320"
+                          VPOS="1119"
+                          HPOS="106"
+                          CONTENT="catiōtiſ oſtenꝺ́et ut qͦſ h́ legenſ ſci-"/>
+               </TextLine>
+               <TextLine ID="r2l77"
+                         BASELINE="122,1168 147,1168 173,1167 199,1167 225,1167 251,1167 277,1166 302,1166 328,1166 354,1166 380,1165 406,1166 432,1166"
+                         HEIGHT="37"
+                         WIDTH="320"
+                         VPOS="1143"
+                         HPOS="117">
+                  <String ID="string_r2l77"
+                          HEIGHT="37"
+                          WIDTH="320"
+                          VPOS="1143"
+                          HPOS="117"
+                          CONTENT="ret c̄ initiū carniſ ī ꝺeo ⁊ ih́u aꝺue-"/>
+               </TextLine>
+               <TextLine ID="r2l79"
+                         BASELINE="120,1194 146,1194 173,1194 200,1194 226,1194 253,1194 280,1194 307,1194 333,1194 360,1194 387,1194 414,1194"
+                         HEIGHT="34"
+                         WIDTH="304"
+                         VPOS="1170"
+                         HPOS="115">
+                  <String ID="string_r2l79"
+                          HEIGHT="34"
+                          WIDTH="304"
+                          VPOS="1170"
+                          HPOS="115"
+                          CONTENT="niētiſ h́itacĺm caro deb̾et agnoſc̕e"/>
+               </TextLine>
+               <TextLine ID="r2l81"
+                         BASELINE="125,1220 150,1221 175,1221 200,1221 225,1221 250,1220 275,1220 300,1219 325,1219 350,1219 375,1219 400,1220 426,1221"
+                         HEIGHT="36"
+                         WIDTH="311"
+                         VPOS="1195"
+                         HPOS="120">
+                  <String ID="string_r2l81"
+                          HEIGHT="36"
+                          WIDTH="311"
+                          VPOS="1195"
+                          HPOS="120"
+                          CONTENT="atqꝫ ī ſe úbum uociſ qꝺ́ ī cōſonan-"/>
+               </TextLine>
+               <TextLine ID="r2l83"
+                         BASELINE="116,1247 141,1247 167,1247 193,1247 218,1247 244,1246 270,1245 295,1245 321,1244 347,1244 372,1244 398,1246 424,1247"
+                         HEIGHT="37"
+                         WIDTH="318"
+                         VPOS="1224"
+                         HPOS="111">
+                  <String ID="string_r2l83"
+                          HEIGHT="37"
+                          WIDTH="318"
+                          VPOS="1224"
+                          HPOS="111"
+                          CONTENT="tibꝫ ꝑꝺiꝺ́at inueniret. Deniqꝫ tūꝑ"/>
+               </TextLine>
+               <TextLine ID="r2l85"
+                         BASELINE="117,1271 144,1272 171,1272 198,1271 225,1271 252,1270 280,1270 307,1269 334,1269 361,1269 388,1269 416,1270"
+                         HEIGHT="37"
+                         WIDTH="309"
+                         VPOS="1246"
+                         HPOS="112">
+                  <String ID="string_r2l85"
+                          HEIGHT="37"
+                          WIDTH="309"
+                          VPOS="1246"
+                          HPOS="112"
+                          CONTENT="fecti eun̄gĺii opꝰ int˜nſ ⁊ a baptiſ-"/>
+               </TextLine>
+               <TextLine ID="r2l87"
+                         BASELINE="123,1297 148,1297 174,1296 200,1296 226,1296 252,1296 278,1296 304,1296 330,1296 356,1297 382,1297 408,1298 434,1298"
+                         HEIGHT="42"
+                         WIDTH="321"
+                         VPOS="1273"
+                         HPOS="118">
+                  <String ID="string_r2l87"
+                          HEIGHT="42"
+                          WIDTH="321"
+                          VPOS="1273"
+                          HPOS="118"
+                          CONTENT="mo ꝺ̄o ꝑdicare ꝺeū inchoanſ nō la-"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1624277602726_501"
+                       HEIGHT="1131"
+                       WIDTH="352"
+                       VPOS="184"
+                       HPOS="455">
+               <Shape>
+                  <Polygon POINTS="455,184 805,184 807,1315 455,1315"/>
+               </Shape>
+               <TextLine ID="r2l3"
+                         BASELINE="496,223 521,227 546,229 571,231 596,231 621,230 646,229 671,228 696,227 721,226 746,225 771,225 797,225"
+                         HEIGHT="51"
+                         WIDTH="292"
+                         VPOS="191"
+                         HPOS="510">
+                  <String ID="string_r2l3"
+                          HEIGHT="51"
+                          WIDTH="292"
+                          VPOS="191"
+                          HPOS="510"
+                          CONTENT="borauit nauititatē carnis ꝙ˜"/>
+               </TextLine>
+               <TextLine ID="r2l6"
+                         BASELINE="530,256 556,256 583,255 609,254 636,253 663,252 689,251 716,250 742,249 769,248 796,248"
+                         HEIGHT="39"
+                         WIDTH="277"
+                         VPOS="227"
+                         HPOS="525">
+                  <String ID="string_r2l6"
+                          HEIGHT="39"
+                          WIDTH="277"
+                          VPOS="227"
+                          HPOS="525"
+                          CONTENT="ī pͥoꝛibꝫ uiꝺ́at dic̕e ſꝫ totuſ ī pͥ-"/>
+               </TextLine>
+               <TextLine ID="r2l7"
+                         BASELINE="527,279 552,280 577,280 603,279 628,278 653,278 679,276 704,275 729,274 755,274 780,273 806,274"
+                         HEIGHT="40"
+                         WIDTH="290"
+                         VPOS="253"
+                         HPOS="522">
+                  <String ID="string_r2l7"
+                          HEIGHT="40"
+                          WIDTH="290"
+                          VPOS="253"
+                          HPOS="522"
+                          CONTENT="muſ expoſitioēm ꝺeſerti ieiuni-"/>
+               </TextLine>
+               <TextLine ID="r2l9"
+                         BASELINE="539,304 564,305 590,305 616,305 642,303 668,302 694,301 720,299 746,299 772,300 798,301"
+                         HEIGHT="39"
+                         WIDTH="270"
+                         VPOS="278"
+                         HPOS="534">
+                  <String ID="string_r2l9"
+                          HEIGHT="39"
+                          WIDTH="270"
+                          VPOS="278"
+                          HPOS="534"
+                          CONTENT="ū numeri. tēptatioēm ꝺiaboli"/>
+               </TextLine>
+               <TextLine ID="r2l13"
+                         BASELINE="540,331 565,331 590,331 615,330 640,329 665,328 690,327 715,326 740,325 765,325 790,326"
+                         HEIGHT="39"
+                         WIDTH="261"
+                         VPOS="302"
+                         HPOS="535">
+                  <String ID="string_r2l13"
+                          HEIGHT="39"
+                          WIDTH="261"
+                          VPOS="302"
+                          HPOS="535"
+                          CONTENT="cōgregatioēm beſtiaꝝ ⁊ mīſt́rī"/>
+               </TextLine>
+               <TextLine ID="r2l15"
+                         BASELINE="544,358 570,357 596,357 622,356 648,355 674,354 700,354 726,353 752,353 778,353 804,353"
+                         HEIGHT="37"
+                         WIDTH="270"
+                         VPOS="330"
+                         HPOS="539">
+                  <String ID="string_r2l15"
+                          HEIGHT="37"
+                          WIDTH="270"
+                          VPOS="330"
+                          HPOS="539"
+                          CONTENT="ꝓtulit angĺoꝝ ut īſtituēs nos"/>
+               </TextLine>
+               <TextLine ID="r2l17"
+                         BASELINE="544,383 571,383 599,383 627,383 654,382 682,381 710,379 737,379 765,378 793,377"
+                         HEIGHT="36"
+                         WIDTH="260"
+                         VPOS="356"
+                         HPOS="538">
+                  <String ID="string_r2l17"
+                          HEIGHT="36"
+                          WIDTH="260"
+                          VPOS="356"
+                          HPOS="538"
+                          CONTENT="aꝺ intelligenꝺū ſingl̕a ī bre-"/>
+               </TextLine>
+               <TextLine ID="r2l19"
+                         BASELINE="541,407 566,408 592,409 617,409 643,408 668,407 694,406 719,405 745,404 770,404 796,404"
+                         HEIGHT="45"
+                         WIDTH="266"
+                         VPOS="375"
+                         HPOS="536">
+                  <String ID="string_r2l19"
+                          HEIGHT="45"
+                          WIDTH="266"
+                          VPOS="375"
+                          HPOS="536"
+                          CONTENT="ui cōpingenſ nͨ auctoꝛitate fc̄e"/>
+               </TextLine>
+               <TextLine ID="r2l20"
+                         BASELINE="535,433 560,434 586,434 611,434 637,434 663,434 688,433 714,433 739,431 765,430 791,429"
+                         HEIGHT="37"
+                         WIDTH="267"
+                         VPOS="407"
+                         HPOS="529">
+                  <String ID="string_r2l20"
+                          HEIGHT="37"
+                          WIDTH="267"
+                          VPOS="407"
+                          HPOS="529"
+                          CONTENT="rei ꝺem̄et ⁊ ꝓficienꝺi oꝑii ple-"/>
+               </TextLine>
+               <TextLine ID="r2l23"
+                         BASELINE="523,459 549,460 575,460 602,460 628,460 655,459 681,459 707,459 734,458 760,458 787,458"
+                         HEIGHT="34"
+                         WIDTH="274"
+                         VPOS="437"
+                         HPOS="518">
+                  <String ID="string_r2l23"
+                          HEIGHT="34"
+                          WIDTH="274"
+                          VPOS="437"
+                          HPOS="518"
+                          CONTENT="nituꝺinē nō negaret. Deniqꝫ"/>
+               </TextLine>
+               <TextLine ID="r2l24"
+                         BASELINE="533,484 559,485 585,486 611,486 637,485 663,484 689,484 715,483 741,483 767,483 793,484"
+                         HEIGHT="37"
+                         WIDTH="270"
+                         VPOS="461"
+                         HPOS="528">
+                  <String ID="string_r2l24"
+                          HEIGHT="37"
+                          WIDTH="270"
+                          VPOS="461"
+                          HPOS="528"
+                          CONTENT="amputaſſe sͥ pꝰ fiꝺē pollicē dī"/>
+               </TextLine>
+               <TextLine ID="r2l26"
+                         BASELINE="534,511 561,512 588,512 615,511 642,511 670,510 697,509 724,509 751,508 778,508 806,508"
+                         HEIGHT="38"
+                         WIDTH="282"
+                         VPOS="483"
+                         HPOS="529">
+                  <String ID="string_r2l26"
+                          HEIGHT="38"
+                          WIDTH="282"
+                          VPOS="483"
+                          HPOS="529"
+                          CONTENT="ut sac̕ꝺotio reꝓbꝫ haberet˜ ſꝫ tā"/>
+               </TextLine>
+               <TextLine ID="r2l28"
+                         BASELINE="536,534 561,535 587,536 612,536 638,536 664,535 689,535 715,534 740,534 766,533 792,532"
+                         HEIGHT="34"
+                         WIDTH="266"
+                         VPOS="513"
+                         HPOS="531">
+                  <String ID="string_r2l28"
+                          HEIGHT="34"
+                          WIDTH="266"
+                          VPOS="513"
+                          HPOS="531"
+                          CONTENT="tū ꝯlentiēs fiꝺei p̄ꝺeſtinata po-"/>
+               </TextLine>
+               <TextLine ID="r2l31"
+                         BASELINE="513,563 539,562 565,561 591,561 617,561 643,562 669,562 695,562 721,561 747,561 773,559 799,557"
+                         HEIGHT="36"
+                         WIDTH="297"
+                         VPOS="535"
+                         HPOS="507">
+                  <String ID="string_r2l31"
+                          HEIGHT="36"
+                          WIDTH="297"
+                          VPOS="535"
+                          HPOS="507"
+                          CONTENT="tuit elćo; ut nͨ ſic ī oꝑe úbi ꝑꝺe-"/>
+               </TextLine>
+               <TextLine ID="r2l32"
+                         BASELINE="535,586 561,586 587,587 613,586 639,586 665,586 691,585 717,585 743,585 769,585 795,586"
+                         HEIGHT="38"
+                         WIDTH="271"
+                         VPOS="559"
+                         HPOS="530">
+                  <String ID="string_r2l32"
+                          HEIGHT="38"
+                          WIDTH="271"
+                          VPOS="559"
+                          HPOS="530"
+                          CONTENT="ret ꝙ pͥuſ m̄uerat ī gen̾e. Nā"/>
+               </TextLine>
+               <TextLine ID="r2l34"
+                         BASELINE="535,609 561,609 587,610 613,611 639,611 665,611 691,612 717,612 743,611 769,610 795,609"
+                         HEIGHT="32"
+                         WIDTH="270"
+                         VPOS="592"
+                         HPOS="530">
+                  <String ID="string_r2l34"
+                          HEIGHT="32"
+                          WIDTH="270"
+                          VPOS="592"
+                          HPOS="530"
+                          CONTENT="⁊ alexantꝺͥe ep̄os fuit cᔆ ꝑ ſingl̕a"/>
+               </TextLine>
+               <TextLine ID="r2l36"
+                         BASELINE="540,638 566,638 593,637 619,637 646,637 673,636 699,636 726,636 752,635 779,635 806,636"
+                         HEIGHT="37"
+                         WIDTH="276"
+                         VPOS="612"
+                         HPOS="535">
+                  <String ID="string_r2l36"
+                          HEIGHT="37"
+                          WIDTH="276"
+                          VPOS="612"
+                          HPOS="535"
+                          CONTENT="funt opꝰ ſcire ⁊ eun¨gelii ī ſe ꝺic-"/>
+               </TextLine>
+               <TextLine ID="r2l38"
+                         BASELINE="546,662 571,661 596,661 621,661 646,662 671,662 696,662 721,662 746,662 771,662 796,662"
+                         HEIGHT="36"
+                         WIDTH="260"
+                         VPOS="639"
+                         HPOS="541">
+                  <String ID="string_r2l38"
+                          HEIGHT="36"
+                          WIDTH="260"
+                          VPOS="639"
+                          HPOS="541"
+                          CONTENT="ta ꝺiſpon̾e ⁊ ꝺiſciplinā in ſe"/>
+               </TextLine>
+               <TextLine ID="r2l40"
+                         BASELINE="501,687 528,688 555,689 582,689 609,689 636,689 664,689 691,689 718,688 745,688 772,688 800,688"
+                         HEIGHT="45"
+                         WIDTH="309"
+                         VPOS="662"
+                         HPOS="496">
+                  <String ID="string_r2l40"
+                          HEIGHT="45"
+                          WIDTH="309"
+                          VPOS="662"
+                          HPOS="496"
+                          CONTENT="legiſ agnoſc̾e ⁊ ꝺiuinā ī c˜rne"/>
+               </TextLine>
+               <TextLine ID="r2l42"
+                         BASELINE="510,715 536,716 562,716 588,716 614,716 640,715 667,715 693,715 719,715 745,716 771,716 798,716"
+                         HEIGHT="34"
+                         WIDTH="298"
+                         VPOS="694"
+                         HPOS="505">
+                  <String ID="string_r2l42"
+                          HEIGHT="34"
+                          WIDTH="298"
+                          VPOS="694"
+                          HPOS="505"
+                          CONTENT="ꝺn̄i ītelliǵo nat˜am. q̄ ī nos pͥ-"/>
+               </TextLine>
+               <TextLine ID="r2l44"
+                         BASELINE="540,742 566,742 593,742 620,742 647,742 674,742 700,742 727,742 754,742 781,742 808,742"
+                         HEIGHT="33"
+                         WIDTH="278"
+                         VPOS="720"
+                         HPOS="535">
+                  <String ID="string_r2l44"
+                          HEIGHT="33"
+                          WIDTH="278"
+                          VPOS="720"
+                          HPOS="535"
+                          CONTENT="mū requiri opoꝛtet ꝺehinc in-"/>
+               </TextLine>
+               <TextLine ID="r2l46"
+                         BASELINE="541,771 566,770 592,770 618,769 643,769 669,769 695,768 720,768 746,767 772,767 798,766"
+                         HEIGHT="35"
+                         WIDTH="267"
+                         VPOS="745"
+                         HPOS="536">
+                  <String ID="string_r2l46"
+                          HEIGHT="35"
+                          WIDTH="267"
+                          VPOS="745"
+                          HPOS="536"
+                          CONTENT="quiſita uolumꝰ agnoſci habē-"/>
+               </TextLine>
+               <TextLine ID="r2l48"
+                         BASELINE="542,795 568,795 594,796 620,796 646,796 673,795 699,795 725,795 751,795 777,794 804,794"
+                         HEIGHT="36"
+                         WIDTH="273"
+                         VPOS="771"
+                         HPOS="536">
+                  <String ID="string_r2l48"
+                          HEIGHT="36"
+                          WIDTH="273"
+                          VPOS="771"
+                          HPOS="536"
+                          CONTENT="teſ m̾ceꝺē exhoꝛtatōis qm̄ qͥ"/>
+               </TextLine>
+               <TextLine ID="r2l50"
+                         BASELINE="548,822 574,821 601,821 628,821 655,821 681,821 708,821 735,821 762,820 789,819"
+                         HEIGHT="36"
+                         WIDTH="251"
+                         VPOS="796"
+                         HPOS="543">
+                  <String ID="string_r2l50"
+                          HEIGHT="36"
+                          WIDTH="251"
+                          VPOS="796"
+                          HPOS="543"
+                          CONTENT="plantat ⁊ qͥ rigat unū ſūt"/>
+               </TextLine>
+               <TextLine ID="r2l52"
+                         BASELINE="547,848 572,848 597,847 622,847 647,847 672,846 697,846 722,846 747,845 772,845 797,845"
+                         HEIGHT="39"
+                         WIDTH="260"
+                         VPOS="819"
+                         HPOS="542">
+                  <String ID="string_r2l52"
+                          HEIGHT="39"
+                          WIDTH="260"
+                          VPOS="819"
+                          HPOS="542"
+                          CONTENT="qui aū īcrem̄tū p̄rat; ꝺeuſ ē"/>
+               </TextLine>
+               <TextLine ID="r2l54"
+                         BASELINE="537,876 564,875 591,875 618,874 645,873 673,873 700,873 727,872 754,872 781,872 809,873"
+                         HEIGHT="38"
+                         WIDTH="282"
+                         VPOS="848"
+                         HPOS="532">
+                  <String ID="string_r2l54"
+                          HEIGHT="38"
+                          WIDTH="282"
+                          VPOS="848"
+                          HPOS="532"
+                          CONTENT="Ntium euan Explic antigī"/>
+               </TextLine>
+               <TextLine ID="r2l56"
+                         BASELINE="549,900 575,901 601,901 627,901 654,900 680,900 706,899 733,898 759,898 785,898 812,898"
+                         HEIGHT="38"
+                         WIDTH="274"
+                         VPOS="872"
+                         HPOS="544">
+                  <String ID="string_r2l56"
+                          HEIGHT="38"
+                          WIDTH="274"
+                          VPOS="872"
+                          HPOS="544"
+                          CONTENT="geli ih́u xp̄i filii ꝺ́i īcip̄ euuḡ."/>
+               </TextLine>
+               <TextLine ID="r2l58"
+                         BASELINE="545,927 571,928 597,928 623,928 649,927 675,927 701,926 727,925 753,925 779,924 805,923"
+                         HEIGHT="36"
+                         WIDTH="271"
+                         VPOS="903"
+                         HPOS="539">
+                  <String ID="string_r2l58"
+                          HEIGHT="36"
+                          WIDTH="271"
+                          VPOS="903"
+                          HPOS="539"
+                          CONTENT="ſic̄ ſcͥptum ē in ẏſaia s maꝛ"/>
+               </TextLine>
+               <TextLine ID="r2l60"
+                         BASELINE="545,959 571,956 597,955 623,954 649,954 675,953 701,953 727,953 753,952 779,952 805,951"
+                         HEIGHT="36"
+                         WIDTH="270"
+                         VPOS="929"
+                         HPOS="540">
+                  <String ID="string_r2l60"
+                          HEIGHT="36"
+                          WIDTH="270"
+                          VPOS="929"
+                          HPOS="540"
+                          CONTENT="ꝓph̕a. Ecce mitto angl̾m cum."/>
+               </TextLine>
+               <TextLine ID="r2l62"
+                         BASELINE="546,980 571,979 596,979 621,979 647,979 672,979 697,979 723,978 748,978 773,977 799,975"
+                         HEIGHT="36"
+                         WIDTH="263"
+                         VPOS="954"
+                         HPOS="541">
+                  <String ID="string_r2l62"
+                          HEIGHT="36"
+                          WIDTH="263"
+                          VPOS="954"
+                          HPOS="541"
+                          CONTENT="meū an̄ faciem tuā qͥ ꝓpara"/>
+               </TextLine>
+               <TextLine ID="r2l64"
+                         BASELINE="539,1005 565,1006 591,1006 617,1005 643,1005 670,1004 696,1003 722,1003 748,1002 774,1002 801,1002"
+                         HEIGHT="32"
+                         WIDTH="272"
+                         VPOS="983"
+                         HPOS="534">
+                  <String ID="string_r2l64"
+                          HEIGHT="32"
+                          WIDTH="272"
+                          VPOS="983"
+                          HPOS="534"
+                          CONTENT="bit uiam tuā an̄ te Uox cla-"/>
+               </TextLine>
+               <TextLine ID="r2l66"
+                         BASELINE="539,1031 565,1031 592,1031 618,1031 645,1030 671,1030 698,1029 724,1029 751,1028 777,1028 804,1028"
+                         HEIGHT="40"
+                         WIDTH="275"
+                         VPOS="1002"
+                         HPOS="534">
+                  <String ID="string_r2l66"
+                          HEIGHT="40"
+                          WIDTH="275"
+                          VPOS="1002"
+                          HPOS="534"
+                          CONTENT="mantiſ ī ꝺeſerto parate uia̾"/>
+               </TextLine>
+               <TextLine ID="r2l68"
+                         BASELINE="542,1057 569,1057 596,1057 623,1057 650,1057 677,1056 704,1055 731,1054 758,1054 785,1053 813,1051"
+                         HEIGHT="50"
+                         WIDTH="281"
+                         VPOS="1019"
+                         HPOS="537">
+                  <String ID="string_r2l68"
+                          HEIGHT="50"
+                          WIDTH="281"
+                          VPOS="1019"
+                          HPOS="537"
+                          CONTENT="ꝺͥo; rectaſ facite semitaſ eiᔆ. Fu-"/>
+               </TextLine>
+               <TextLine ID="r2l70"
+                         BASELINE="540,1084 566,1084 592,1084 619,1083 645,1083 672,1082 698,1082 724,1081 751,1080 777,1079 804,1078"
+                         HEIGHT="40"
+                         WIDTH="274"
+                         VPOS="1056"
+                         HPOS="535">
+                  <String ID="string_r2l70"
+                          HEIGHT="40"
+                          WIDTH="274"
+                          VPOS="1056"
+                          HPOS="535"
+                          CONTENT="it ioh̕s in ꝺeſerto baptizanſ ⁊ p̄"/>
+               </TextLine>
+               <TextLine ID="r2l72"
+                         BASELINE="537,1110 562,1111 588,1111 614,1111 639,1110 665,1109 691,1108 716,1107 742,1106 768,1106 794,1106"
+                         HEIGHT="31"
+                         WIDTH="268"
+                         VPOS="1089"
+                         HPOS="532">
+                  <String ID="string_r2l72"
+                          HEIGHT="31"
+                          WIDTH="268"
+                          VPOS="1089"
+                          HPOS="532"
+                          CONTENT="ꝺicam̄ baptiſmū penitentie"/>
+               </TextLine>
+               <TextLine ID="r2l74"
+                         BASELINE="548,1137 573,1137 599,1137 624,1137 650,1137 676,1136 701,1136 727,1135 752,1134 778,1133 804,1132"
+                         HEIGHT="39"
+                         WIDTH="266"
+                         VPOS="1109"
+                         HPOS="543">
+                  <String ID="string_r2l74"
+                          HEIGHT="39"
+                          WIDTH="266"
+                          VPOS="1109"
+                          HPOS="543"
+                          CONTENT="ī remiſſiōem pecōꝝ ⁊ egreꝺie-"/>
+               </TextLine>
+               <TextLine ID="r2l76"
+                         BASELINE="540,1163 565,1162 591,1162 616,1162 642,1162 668,1162 693,1162 719,1162 744,1161 770,1161 796,1160"
+                         HEIGHT="32"
+                         WIDTH="266"
+                         VPOS="1141"
+                         HPOS="535">
+                  <String ID="string_r2l76"
+                          HEIGHT="32"
+                          WIDTH="266"
+                          VPOS="1141"
+                          HPOS="535"
+                          CONTENT="bat˜ aꝺ illū om̄iſ iuꝺee regio"/>
+               </TextLine>
+               <TextLine ID="r2l78"
+                         BASELINE="539,1189 565,1190 592,1190 618,1189 645,1189 672,1189 698,1187 725,1187 751,1186 778,1186 805,1185"
+                         HEIGHT="39"
+                         WIDTH="276"
+                         VPOS="1163"
+                         HPOS="534">
+                  <String ID="string_r2l78"
+                          HEIGHT="39"
+                          WIDTH="276"
+                          VPOS="1163"
+                          HPOS="534"
+                          CONTENT="⁊ ih́ololimite uniúſi ⁊ bapti-"/>
+               </TextLine>
+               <TextLine ID="r2l80"
+                         BASELINE="544,1217 570,1218 596,1218 623,1217 649,1216 676,1216 702,1215 728,1214 755,1214 781,1214 808,1214"
+                         HEIGHT="36"
+                         WIDTH="274"
+                         VPOS="1189"
+                         HPOS="539">
+                  <String ID="string_r2l80"
+                          HEIGHT="36"
+                          WIDTH="274"
+                          VPOS="1189"
+                          HPOS="539"
+                          CONTENT="zabant ab illo ī ioꝛꝺane ſluīe"/>
+               </TextLine>
+               <TextLine ID="r2l82"
+                         BASELINE="548,1242 574,1243 600,1244 626,1243 652,1243 678,1243 704,1241 730,1240 756,1240 782,1239 809,1237"
+                         HEIGHT="34"
+                         WIDTH="272"
+                         VPOS="1219"
+                         HPOS="542">
+                  <String ID="string_r2l82"
+                          HEIGHT="34"
+                          WIDTH="272"
+                          VPOS="1219"
+                          HPOS="542"
+                          CONTENT="cōfitenteſ pcc̄a ſua. Et erat io-"/>
+               </TextLine>
+               <TextLine ID="r2l84"
+                         BASELINE="538,1266 565,1267 592,1268 619,1268 647,1268 674,1267 701,1266 729,1265 756,1265 783,1264 811,1263"
+                         HEIGHT="37"
+                         WIDTH="283"
+                         VPOS="1243"
+                         HPOS="533">
+                  <String ID="string_r2l84"
+                          HEIGHT="37"
+                          WIDTH="283"
+                          VPOS="1243"
+                          HPOS="533"
+                          CONTENT="h̕s ueſtitus pil̕ cameli ⁊ zona"/>
+               </TextLine>
+               <TextLine ID="r2l86"
+                         BASELINE="531,1299 556,1297 582,1295 608,1293 634,1293 660,1292 685,1292 711,1292 737,1291 763,1290 789,1289 815,1287"
+                         HEIGHT="50"
+                         WIDTH="296"
+                         VPOS="1265"
+                         HPOS="525">
+                  <String ID="string_r2l86"
+                          HEIGHT="50"
+                          WIDTH="296"
+                          VPOS="1265"
+                          HPOS="525"
+                          CONTENT="pellicea circa lūboꝫ ei̾ꝰ ⁊ lucuſtaᔆ"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">FinalCompositeMSS_210621</title>
+         </titleStmt>
+         <seriesStmt>
+            <title>PBP</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main">FinalCompositeMSS_210621</title><idno type="Transkribus">704831</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface lrx="993" lry="1566" ulx="0" uly="0" xml:id="facs_16">
+         <graphic height="1566px" url="16.BnFLatin248_89r_Leuiticus.jpeg" width="993px"/>
+         <graphic height="1566px" url="" width="993px"/>
+         <zone points="114,153 428,153 428,1157 107,1157" rendition="TextRegion" xml:id="facs_16_TextRegion_1624271318266_365">
+            <zone points="102,235 398,228 398,204 339,202 307,190 238,196 167,189 150,199 102,198" rendition="Line" xml:id="facs_16_r1l3"/>
+            <zone points="105,266 282,265 376,255 403,262 411,260 411,222 389,231 105,237" rendition="Line" xml:id="facs_16_r1l5"/>
+            <zone points="111,293 183,291 193,298 278,285 397,288 396,255 110,266" rendition="Line" xml:id="facs_16_r1l7"/>
+            <zone points="111,322 256,325 358,315 370,324 389,314 401,319 400,287 110,294" rendition="Line" xml:id="facs_16_r1l9"/>
+            <zone points="106,351 370,350 400,344 400,319 106,323" rendition="Line" xml:id="facs_16_r1l11"/>
+            <zone points="107,381 392,374 398,344 336,355 282,347 107,351" rendition="Line" xml:id="facs_16_r1l13"/>
+            <zone points="106,406 390,409 405,404 405,366 357,383 251,375 106,382" rendition="Line" xml:id="facs_16_r1l15"/>
+            <zone points="105,440 410,439 409,410 183,405 104,413" rendition="Line" xml:id="facs_16_r1l17"/>
+            <zone points="109,465 245,473 326,462 396,466 396,435 349,443 109,440" rendition="Line" xml:id="facs_16_r1l19"/>
+            <zone points="107,500 190,503 285,492 376,501 405,489 405,470 395,468 107,466" rendition="Line" xml:id="facs_16_r1l21"/>
+            <zone points="107,531 189,533 212,522 283,531 411,526 411,505 386,496 107,501" rendition="Line" xml:id="facs_16_r1l23"/>
+            <zone points="109,558 403,560 397,528 109,530" rendition="Line" xml:id="facs_16_r1l25"/>
+            <zone points="104,589 291,582 306,592 385,589 396,586 396,556 104,558" rendition="Line" xml:id="facs_16_r1l26"/>
+            <zone points="107,617 242,615 253,623 392,615 392,590 382,587 107,589" rendition="Line" xml:id="facs_16_r1l29"/>
+            <zone points="109,647 201,650 229,640 252,648 393,649 404,645 404,616 109,620" rendition="Line" xml:id="facs_16_r1l31"/>
+            <zone points="104,676 331,676 339,669 387,676 387,641 363,648 279,643 239,650 229,641 200,649 104,648" rendition="Line" xml:id="facs_16_r1l33"/>
+            <zone points="109,706 406,707 406,679 382,675 109,675" rendition="Line" xml:id="facs_16_r1l35"/>
+            <zone points="111,736 396,732 396,709 340,702 111,707" rendition="Line" xml:id="facs_16_r1l37"/>
+            <zone points="110,761 188,770 396,767 390,731 334,740 296,731 249,740 110,734" rendition="Line" xml:id="facs_16_r1l39"/>
+            <zone points="109,797 408,796 408,766 400,765 109,765" rendition="Line" xml:id="facs_16_r1l41"/>
+            <zone points="112,825 229,818 385,828 405,821 406,796 113,797" rendition="Line" xml:id="facs_16_r1l42"/>
+            <zone points="110,853 382,856 397,851 397,822 110,823" rendition="Line" xml:id="facs_16_r1l44"/>
+            <zone points="108,884 385,888 397,885 397,851 322,859 283,850 108,856" rendition="Line" xml:id="facs_16_r1l46"/>
+            <zone points="110,914 385,917 405,913 405,883 110,884" rendition="Line" xml:id="facs_16_r1l48"/>
+            <zone points="110,945 343,941 352,950 410,949 411,910 341,919 330,911 310,918 111,915" rendition="Line" xml:id="facs_16_r1l50"/>
+            <zone points="107,973 405,978 405,947 107,944" rendition="Line" xml:id="facs_16_r1l52"/>
+            <zone points="104,1002 322,1003 337,1010 382,1001 400,1009 393,977 219,978 200,969 183,977 104,976" rendition="Line" xml:id="facs_16_r1l54"/>
+            <zone points="111,1031 350,1037 401,1032 402,1007 112,1002" rendition="Line" xml:id="facs_16_r1l56"/>
+            <zone points="102,1064 400,1067 401,1041 386,1031 361,1040 290,1030 280,1039 103,1031" rendition="Line" xml:id="facs_16_r1l58"/>
+            <zone points="108,1086 173,1095 183,1088 208,1096 396,1096 397,1067 390,1066 109,1062" rendition="Line" xml:id="facs_16_r1l60"/>
+            <zone points="107,1120 365,1126 394,1122 395,1097 108,1090" rendition="Line" xml:id="facs_16_r1l62"/>
+            <zone points="102,1158 197,1153 239,1163 316,1155 395,1169 405,1166 406,1128 103,1119" rendition="Line" xml:id="facs_16_r1l64"/></zone>
+         <zone points="428,153 782,153 775,1157 428,1157" rendition="TextRegion" xml:id="facs_16_TextRegion_1624271318265_364">
+            <zone points="468,230 764,225 763,185 728,179 588,193 467,186" rendition="Line" xml:id="facs_16_r1l2"/>
+            <zone points="469,255 731,254 741,261 755,259 755,224 683,232 667,224 613,233 469,230" rendition="Line" xml:id="facs_16_r1l4"/>
+            <zone points="468,287 665,284 710,293 775,286 775,256 468,255" rendition="Line" xml:id="facs_16_r1l6"/>
+            <zone points="468,318 737,318 758,315 758,285 711,293 633,284 468,287" rendition="Line" xml:id="facs_16_r1l8"/>
+            <zone points="470,349 752,347 752,313 714,321 679,313 470,318" rendition="Line" xml:id="facs_16_r1l10"/>
+            <zone points="466,374 540,373 576,382 653,373 758,377 752,346 466,347" rendition="Line" xml:id="facs_16_r1l12"/>
+            <zone points="468,407 611,411 664,401 748,406 758,415 768,411 769,380 468,374" rendition="Line" xml:id="facs_16_r1l14"/>
+            <zone points="469,439 583,431 709,442 779,432 779,407 758,401 746,405 665,402 607,412 469,406" rendition="Line" xml:id="facs_16_r1l16"/>
+            <zone points="462,463 769,466 769,436 462,435" rendition="Line" xml:id="facs_16_r1l18"/>
+            <zone points="462,492 570,500 657,491 682,501 759,496 759,466 736,460 710,468 624,461 462,467" rendition="Line" xml:id="facs_16_r1l20"/>
+            <zone points="463,528 774,525 774,497 682,501 657,491 509,502 463,494" rendition="Line" xml:id="facs_16_r1l22"/>
+            <zone points="469,553 631,561 703,551 774,561 774,532 763,526 469,526" rendition="Line" xml:id="facs_16_r1l24"/>
+            <zone points="469,583 751,585 769,592 769,556 469,553" rendition="Line" xml:id="facs_16_r1l27"/>
+            <zone points="460,612 511,620 764,615 764,588 750,586 460,585" rendition="Line" xml:id="facs_16_r1l28"/>
+            <zone points="465,645 771,644 771,610 739,619 465,614" rendition="Line" xml:id="facs_16_r1l30"/>
+            <zone points="463,674 774,675 774,645 463,645" rendition="Line" xml:id="facs_16_r1l32"/>
+            <zone points="465,707 760,703 759,674 750,673 464,675" rendition="Line" xml:id="facs_16_r1l34"/>
+            <zone points="460,732 478,739 508,729 539,737 554,730 741,737 765,730 765,705 460,708" rendition="Line" xml:id="facs_16_r1l36"/>
+            <zone points="458,770 525,760 541,769 564,761 768,765 774,736 458,737" rendition="Line" xml:id="facs_16_r1l38"/>
+            <zone points="465,795 611,798 627,788 639,798 689,790 768,795 768,768 756,764 465,768" rendition="Line" xml:id="facs_16_r1l40"/>
+            <zone points="463,822 490,828 545,820 559,828 766,820 766,795 758,794 463,795" rendition="Line" xml:id="facs_16_r1l43"/>
+            <zone points="463,852 752,855 776,846 776,818 736,827 463,827" rendition="Line" xml:id="facs_16_r1l45"/>
+            <zone points="468,882 758,886 770,880 770,849 468,858" rendition="Line" xml:id="facs_16_r1l47"/>
+            <zone points="465,917 765,918 765,885 748,883 609,891 465,886" rendition="Line" xml:id="facs_16_r1l49"/>
+            <zone points="462,943 639,949 779,940 779,916 739,911 725,919 702,911 601,915 590,923 568,914 462,916" rendition="Line" xml:id="facs_16_r1l51"/>
+            <zone points="468,977 776,974 776,942 468,947" rendition="Line" xml:id="facs_16_r1l53"/>
+            <zone points="467,1009 503,1014 576,1000 586,1008 745,1006 759,1004 759,976 467,977" rendition="Line" xml:id="facs_16_r1l55"/>
+            <zone points="468,1035 755,1037 763,1035 763,1006 468,1008" rendition="Line" xml:id="facs_16_r1l57"/>
+            <zone points="462,1062 587,1071 742,1068 765,1060 765,1037 749,1035 462,1037" rendition="Line" xml:id="facs_16_r1l59"/>
+            <zone points="469,1096 771,1096 771,1055 748,1066 648,1070 469,1063" rendition="Line" xml:id="facs_16_r1l61"/>
+            <zone points="460,1122 582,1130 736,1119 780,1129 780,1095 460,1094" rendition="Line" xml:id="facs_16_r1l63"/>
+            <zone points="463,1160 761,1158 768,1157 768,1123 463,1124" rendition="Line" xml:id="facs_16_r1l65"/></zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+           <pb facs="#facs_16" n="16" xml:id="img_0016"/><ab facs="#facs_16_TextRegion_1624271318266_365" type="">
+               <lb facs="#facs_16_r1l3" n="N001"/>nus eius inuenite q̄ ꝺicta ſunt
+               <lb facs="#facs_16_r1l5" n="N002"/>pꝛo ꝺelicto. ſumet agnum aꝺ obĺo
+               <lb facs="#facs_16_r1l7" n="N003"/>nem. ut roget pꝛo eo ſacerꝺos. ꝺe-
+               <lb facs="#facs_16_r1l9" n="N004"/>cimam qꝫ partem ſimile conſꝑſe-
+               <lb facs="#facs_16_r1l11" n="N005"/>oleo in ſacrificiū. et olei ſextariū.
+               <lb facs="#facs_16_r1l13" n="N006"/>ꝺuos qꝫ turtures. ſuie ꝺuos colū
+               <lb facs="#facs_16_r1l15" n="N007"/>be pullos. quoꝛū unus ſit ꝓ pc̄to. 
+               <lb facs="#facs_16_r1l17" n="N008"/>et alter in holocauſtum; offeretqꝫ
+               <lb facs="#facs_16_r1l19" n="N009"/>ea ꝺie octauo purificationis ſue
+               <lb facs="#facs_16_r1l21" n="N010"/>ſacerꝺoti aꝺ oſtium tabernaculi
+               <lb facs="#facs_16_r1l23" n="N011"/>teſtimonii coꝛam ꝺn̄o. Qui ſuſci-
+               <lb facs="#facs_16_r1l25" n="N012"/>piens agnū pꝛo ꝺelicto. et ſextari
+               <lb facs="#facs_16_r1l26" n="N013"/>um olei. leuabit ſimul. Immola
+               <lb facs="#facs_16_r1l29" n="N014"/>toqꝫ agno ꝺe ſanguinē eius po-
+               <lb facs="#facs_16_r1l31" n="N015"/>net ſuper extremum auricule ꝺex
+               <lb facs="#facs_16_r1l33" n="N016"/>tre illius qui munꝺatur; et ſuꝑ
+               <lb facs="#facs_16_r1l35" n="N017"/>pollices manus eius ac peꝺis ꝺex
+               <lb facs="#facs_16_r1l37" n="N018"/>tri. Olei uero partem mittet in 
+               <lb facs="#facs_16_r1l39" n="N019"/>manū ſuam ſiniſtrā. in quo tin-
+               <lb facs="#facs_16_r1l41" n="N020"/>gens ꝺigitum ꝺextre manus. aſ
+               <lb facs="#facs_16_r1l42" n="N021"/>perget ſepties contra ꝺm̄n. tāget
+               <lb facs="#facs_16_r1l44" n="N022"/>qꝫ extremum auricule ꝺextre illiꝰ
+               <lb facs="#facs_16_r1l46" n="N023"/>qui munꝺatur et pollices manꝰ
+               <lb facs="#facs_16_r1l48" n="N024"/>ac peꝺis ꝺextri in loco ſanguiniſ
+               <lb facs="#facs_16_r1l50" n="N025"/>qui efſuſus eſt pꝛo ꝺelicto. Reliꝙ̈
+               <lb facs="#facs_16_r1l52" n="N026"/>aūt partem olei que eſt ī ſiniſtra
+               <lb facs="#facs_16_r1l54" n="N027"/>manu mittet ſuper caput puri-
+               <lb facs="#facs_16_r1l56" n="N028"/>ſicati. ut placet ꝑ eo ꝺm̄n; et tur
+               <lb facs="#facs_16_r1l58" n="N029"/>turem ſuie pullum colūbe offét
+               <lb facs="#facs_16_r1l60" n="N030"/>unum pꝛo ꝺelicto. ec alterum in
+               <lb facs="#facs_16_r1l62" n="N031"/>holocauſtū cum libam̄tis ſuis.
+               <lb facs="#facs_16_r1l64" n="N032"/>hoc eſt ſacrificium lepꝛoſi; qͥ h́ere
+            </ab><ab facs="#facs_16_TextRegion_1624271318265_364" type="">
+               <lb facs="#facs_16_r1l2" n="N001"/>n̄ poteſt omnia in emunꝺatioē
+               <lb facs="#facs_16_r1l4" n="N002"/>ſui. Locutus qꝫ eſt ꝺn̄s aꝺ moẏ-
+               <lb facs="#facs_16_r1l6" n="N003"/>ſen et aaron; ꝺicens. Cūqꝫ īgreᔆ
+               <lb facs="#facs_16_r1l8" n="N004"/>ſi fueritis t̾ram chanaan. quā
+               <lb facs="#facs_16_r1l10" n="N005"/>ego ꝺabo uobis in poſſeſſionē
+               <lb facs="#facs_16_r1l12" n="N006"/>ſi fuerit plaga lepꝛe in eꝺibꝫ . i
+               <lb facs="#facs_16_r1l14" n="N007"/>bit cuius ꝺomus eſt nuntians
+               <lb facs="#facs_16_r1l16" n="N008"/>ſacerꝺoti; et ꝺicet. Qĩ plaga lepͤ.
+               <lb facs="#facs_16_r1l18" n="N009"/>uiꝺetur mͥ ēe in ꝺomo mea. At il-
+               <lb facs="#facs_16_r1l20" n="N010"/>le pꝛecipiet ut efferant uniúſa
+               <lb facs="#facs_16_r1l22" n="N011"/>ꝺe ꝺomo. pꝛiuſquā ingreꝺiatur
+               <lb facs="#facs_16_r1l24" n="N012"/>eam. et uiꝺeat<unclear>ꝰ</unclear> utrū leꝓſa ſit ne-
+               <lb facs="#facs_16_r1l27" n="N013"/>īmunꝺa fiant omnia q̄ ī ꝺomo
+               <lb facs="#facs_16_r1l28" n="N014"/>ſunt. Intrabitqꝫ poſt ea; ut con-
+               <lb facs="#facs_16_r1l30" n="N015"/>ſiꝺeret lepꝛā ꝺomus. Et cum ui-
+               <lb facs="#facs_16_r1l32" n="N016"/>ꝺerit in parietibꝫ illius qï ualli-
+               <lb facs="#facs_16_r1l34" n="N017"/>culas palloꝛe ſine ruboꝛe ꝺefoꝛ
+               <lb facs="#facs_16_r1l36" n="N018"/>mes. et humilioꝛes ſuperficie re-
+               <lb facs="#facs_16_r1l38" n="N019"/>liqua; egreꝺietur hoſtiū ꝺomus.
+               <lb facs="#facs_16_r1l40" n="N020"/>et ſtatim clauꝺet eam .vii. ꝺiebꝫ.
+               <lb facs="#facs_16_r1l43" n="N021"/>Reúſusqꝫ ꝺie .viͦi. conſiꝺerabit
+               <lb facs="#facs_16_r1l45" n="N022"/>eam. Si inuenerit creuiſſe lepꝛā.
+               <lb facs="#facs_16_r1l47" n="N023"/>uibebit etui lapiꝺes ī quibꝫ lepͣ
+               <lb facs="#facs_16_r1l49" n="N024"/>eſt; et ꝓiciet eos extra cuitatē ī
+               <lb facs="#facs_16_r1l51" n="N025"/>loco īmunꝺo. Domum aūt ip̄am 
+               <lb facs="#facs_16_r1l53" n="N026"/>raꝺi intrinſecus per circuitum;
+               <lb facs="#facs_16_r1l55" n="N027"/>et ſꝑgi puluerem raſure exẗ ur-
+               <lb facs="#facs_16_r1l57" n="N028"/>bem in loco īmunꝺo. lapiꝺes qꝫ
+               <lb facs="#facs_16_r1l59" n="N029"/>alios reponi ꝓhiis qui ablati
+               <lb facs="#facs_16_r1l61" n="N030"/>fuerint. et luto alio liniri ꝺomū.
+               <lb facs="#facs_16_r1l63" n="N031"/>Sin aūt poſtquā eruti ſunt lapi-
+               <lb facs="#facs_16_r1l65" n="N032"/>ꝺes. et puluis elatus. et alia t́ra
+            </ab>
+         </div>
+      </body>
+   </text>
+</TEI>
