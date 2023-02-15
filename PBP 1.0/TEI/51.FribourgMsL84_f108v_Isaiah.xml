@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">FinalCompositeMSS_210621</title>
+         </titleStmt>
+         <seriesStmt>
+            <title>PBP</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main">FinalCompositeMSS_210621</title><idno type="Transkribus">704831</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface lrx="3066" lry="4088" ulx="0" uly="0" xml:id="facs_51">
+         <graphic height="4088px" url="51.FribourgMsL84_f108v_Isaiah.jpg" width="3066px"/>
+         <graphic height="4088px" url="https://files.transkribus.eu/Get?id=HYYOLRDEMUYPSHDIMVCFTVJL&amp;fileType=view" width="3066px"/>
+         <zone points="780,226 1806,226 1806,3389 780,3389" rendition="TextRegion" xml:id="facs_51_TextRegion_1624278522774_1039">
+            <zone points="833,432 1380,413 1745,443 1745,356 1468,373 1428,345 1245,377 1050,348 935,373 833,342" rendition="Line" xml:id="facs_51_r1l2"/>
+            <zone points="833,504 949,530 1477,490 1594,528 1772,502 1772,434 1566,460 1510,418 1351,422 1311,456 1241,428 1184,459 833,458" rendition="Line" xml:id="facs_51_r1l4"/>
+            <zone points="829,592 1538,579 1647,612 1757,589 1757,532 1590,542 1515,505 1425,542 1329,515 1279,539 1086,513 968,544 829,520" rendition="Line" xml:id="facs_51_r1l6"/>
+            <zone points="827,664 1112,686 1746,661 1746,616 1689,607 828,614" rendition="Line" xml:id="facs_51_r1l8"/>
+            <zone points="837,738 1002,732 1117,773 1221,734 1741,743 1758,678 837,691" rendition="Line" xml:id="facs_51_r1l10"/>
+            <zone points="827,812 934,834 1350,811 1433,836 1757,815 1757,762 1697,751 828,772" rendition="Line" xml:id="facs_51_r1l12"/>
+            <zone points="830,906 992,888 1148,929 1506,890 1576,917 1747,891 1748,830 1681,853 1417,832 1350,860 1169,818 1077,854 996,815 928,848 830,832" rendition="Line" xml:id="facs_51_r1l14"/>
+            <zone points="818,983 1746,982 1746,917 1267,916 1231,939 818,917" rendition="Line" xml:id="facs_51_r1l16"/>
+            <zone points="833,1056 1058,1081 1184,1062 1250,1089 1320,1059 1752,1066 1752,1014 1657,998 833,996" rendition="Line" xml:id="facs_51_r1l18"/>
+            <zone points="828,1142 1721,1154 1759,1149 1759,1076 1293,1100 951,1070 828,1096" rendition="Line" xml:id="facs_51_r1l20"/>
+            <zone points="834,1247 922,1219 1434,1225 1493,1266 1625,1220 1771,1246 1812,1235 1812,1165 1610,1155 1483,1189 1356,1155 1284,1184 834,1166" rendition="Line" xml:id="facs_51_line_1624278522870_1044"/>
+            <zone points="833,1313 1062,1304 1114,1346 1216,1309 1249,1335 1289,1306 1675,1328 1736,1305 1710,1250 834,1247" rendition="Line" xml:id="facs_51_r1l24"/>
+            <zone points="821,1394 1726,1406 1747,1315 1660,1346 1612,1314 1489,1349 1378,1311 1331,1340 821,1340" rendition="Line" xml:id="facs_51_r1l26"/>
+            <zone points="824,1484 1631,1481 1749,1470 1750,1414 1646,1399 1419,1435 1323,1399 1093,1424 940,1399 824,1422" rendition="Line" xml:id="facs_51_r1l28"/>
+            <zone points="818,1557 1304,1573 1655,1545 1731,1574 1731,1503 1652,1492 818,1496" rendition="Line" xml:id="facs_51_r1l30"/>
+            <zone points="819,1635 1760,1643 1761,1567 1290,1593 1010,1553 819,1591" rendition="Line" xml:id="facs_51_r1l32"/>
+            <zone points="819,1729 1774,1724 1773,1634 1719,1666 1590,1666 1523,1630 1362,1668 819,1648" rendition="Line" xml:id="facs_51_r1l34"/>
+            <zone points="821,1802 893,1835 985,1797 1079,1847 1157,1798 1204,1832 1271,1793 1766,1803 1766,1750 1631,1760 1559,1727 1428,1755 1097,1760 1000,1731 821,1755" rendition="Line" xml:id="facs_51_r1l36"/>
+            <zone points="828,1888 1103,1907 1548,1879 1636,1907 1740,1891 1741,1828 828,1826" rendition="Line" xml:id="facs_51_r1l38"/>
+            <zone points="825,1964 1724,1983 1760,1970 1761,1916 1605,1885 1565,1916 1418,1922 1316,1893 1251,1921 1004,1892 825,1911" rendition="Line" xml:id="facs_51_r1l40"/>
+            <zone points="813,2045 1751,2053 1751,1985 814,1988" rendition="Line" xml:id="facs_51_r1l42"/>
+            <zone points="818,2123 1054,2151 1224,2126 1296,2162 1375,2125 1740,2149 1750,2064 1711,2087 1585,2062 1376,2087 1008,2082 944,2051 818,2071" rendition="Line" xml:id="facs_51_r1l44"/>
+            <zone points="827,2215 972,2209 1043,2239 1104,2208 1743,2225 1756,2157 1055,2166 998,2139 828,2164" rendition="Line" xml:id="facs_51_r1l46"/>
+            <zone points="813,2294 1048,2314 1119,2283 1176,2320 1231,2294 1323,2327 1472,2290 1620,2328 1664,2296 1758,2301 1758,2235 1442,2249 1377,2215 1261,2253 1160,2213 813,2246" rendition="Line" xml:id="facs_51_r1l48"/>
+            <zone points="819,2369 1146,2371 1207,2407 1312,2373 1748,2376 1749,2328 1671,2300 1625,2332 1517,2331 1459,2295 1332,2327 820,2310" rendition="Line" xml:id="facs_51_r1l50"/>
+            <zone points="803,2459 1728,2481 1742,2398 803,2397" rendition="Line" xml:id="facs_51_r1l53"/>
+            <zone points="809,2539 1504,2565 1770,2546 1771,2480 1274,2500 1142,2467 997,2503 810,2498" rendition="Line" xml:id="facs_51_r1l55"/>
+            <zone points="774,2610 1042,2647 1094,2612 1166,2639 1286,2611 1758,2614 1745,2540 1632,2576 1491,2552 1351,2578 1266,2551 871,2565 774,2534" rendition="Line" xml:id="facs_51_r1l57"/>
+            <zone points="817,2699 1663,2716 1761,2696 1762,2627 1674,2662 1563,2640 1408,2664 1340,2635 977,2655 947,2628 818,2648" rendition="Line" xml:id="facs_51_r1l59"/>
+            <zone points="815,2787 1752,2784 1752,2727 1623,2740 1557,2713 1440,2740 1300,2739 1196,2697 1077,2732 1018,2707 816,2719" rendition="Line" xml:id="facs_51_r1l60"/>
+            <zone points="805,2868 1751,2880 1752,2797 1656,2827 1514,2789 1376,2824 1104,2790 1059,2822 806,2819" rendition="Line" xml:id="facs_51_r1l62"/>
+            <zone points="799,2983 905,2952 1751,2959 1751,2902 1708,2888 1388,2906 1344,2880 1254,2905 1081,2874 1017,2903 800,2901" rendition="Line" xml:id="facs_51_r1l64"/>
+            <zone points="812,3034 1521,3030 1638,3065 1752,3033 1753,2990 1597,2953 1544,2987 1357,2980 1314,2951 1247,2989 987,2959 813,2986" rendition="Line" xml:id="facs_51_r1l66"/>
+            <zone points="802,3116 1209,3100 1248,3127 1556,3111 1641,3139 1739,3119 1740,3064 1400,3070 1351,3035 1227,3033 1099,3065 1015,3030 803,3066" rendition="Line" xml:id="facs_51_r1l68"/>
+            <zone points="803,3205 911,3181 1085,3220 1139,3194 1710,3222 1744,3163 1369,3112 1288,3152 1073,3127 990,3154 912,3113 804,3146" rendition="Line" xml:id="facs_51_r1l70"/>
+            <zone points="808,3283 1329,3270 1635,3309 1751,3286 1752,3229 1605,3204 1215,3235 1058,3203 979,3237 903,3199 809,3227" rendition="Line" xml:id="facs_51_r1l72"/>
+            <zone points="815,3370 1743,3384 1743,3330 1628,3304 815,3317" rendition="Line" xml:id="facs_51_r1l74"/></zone>
+         <zone points="1806,226 2831,226 2831,3389 1806,3389" rendition="TextRegion" xml:id="facs_51_TextRegion_1624278522774_1038">
+            <zone points="1878,425 2701,421 2763,444 2814,433 2815,351 2624,382 2421,379 2330,341 2197,379 1878,367" rendition="Line" xml:id="facs_51_r1l3"/>
+            <zone points="1893,504 2130,526 2385,501 2633,524 2659,502 2721,525 2799,499 2799,462 2616,441 2189,463 2046,426 1893,458" rendition="Line" xml:id="facs_51_r1l5"/>
+            <zone points="1883,605 2011,581 2265,617 2314,587 2820,598 2820,531 2678,513 2249,546 1884,531" rendition="Line" xml:id="facs_51_r1l7"/>
+            <zone points="1878,658 2786,673 2786,628 2577,604 2262,630 2078,600 1879,613" rendition="Line" xml:id="facs_51_r1l9"/>
+            <zone points="1889,747 2804,758 2804,701 2628,671 2187,705 2151,678 2082,698 2007,672 1969,699 1890,678" rendition="Line" xml:id="facs_51_r1l11"/>
+            <zone points="1890,818 2162,811 2204,841 2410,820 2466,851 2639,815 2808,822 2808,776 2562,742 1890,775" rendition="Line" xml:id="facs_51_r1l13"/>
+            <zone points="1880,906 2807,900 2807,864 2746,826 2628,859 2416,828 2314,855 2227,828 2085,856 1881,839" rendition="Line" xml:id="facs_51_r1l15"/>
+            <zone points="1890,985 1991,1011 2058,977 2325,981 2373,1007 2572,977 2781,992 2803,925 1890,932" rendition="Line" xml:id="facs_51_r1l17"/>
+            <zone points="1887,1061 2287,1066 2344,1099 2495,1063 2782,1081 2797,1025 2580,1024 2515,995 2445,1023 1936,993 1887,1016" rendition="Line" xml:id="facs_51_r1l19"/>
+            <zone points="1884,1142 2786,1168 2819,1165 2820,1083 2762,1112 2604,1087 1884,1095" rendition="Line" xml:id="facs_51_r1l21"/>
+            <zone points="1878,1223 2811,1236 2811,1182 2689,1156 2383,1187 2213,1146 2054,1184 1878,1174" rendition="Line" xml:id="facs_51_r1l23"/>
+            <zone points="1884,1311 2289,1305 2473,1336 2525,1312 2584,1347 2654,1311 2837,1317 2838,1259 1884,1250" rendition="Line" xml:id="facs_51_r1l25"/>
+            <zone points="1890,1396 2404,1384 2667,1414 2796,1395 2797,1350 2694,1323 2555,1351 1891,1329" rendition="Line" xml:id="facs_51_r1l27"/>
+            <zone points="1877,1480 2010,1504 2181,1462 2791,1491 2800,1421 2414,1434 2213,1396 1999,1432 1878,1407" rendition="Line" xml:id="facs_51_r1l29"/>
+            <zone points="1880,1558 2468,1545 2543,1576 2820,1562 2821,1515 2778,1490 2701,1516 2660,1478 2577,1513 2486,1484 2208,1508 2142,1479 2076,1511 1881,1492" rendition="Line" xml:id="facs_51_r1l31"/>
+            <zone points="1871,1657 1975,1630 2762,1649 2813,1625 2788,1583 2474,1570 2424,1593 2368,1565 2321,1596 2198,1570 2109,1593 1997,1555 1872,1592" rendition="Line" xml:id="facs_51_r1l33"/>
+            <zone points="1885,1733 2631,1714 2825,1744 2826,1668 2756,1648 2529,1672 2404,1639 2120,1675 1999,1637 1886,1674" rendition="Line" xml:id="facs_51_r1l35"/>
+            <zone points="1878,1808 2807,1819 2826,1760 2628,1767 2532,1725 2487,1752 2036,1734 1982,1761 1879,1729" rendition="Line" xml:id="facs_51_r1l37"/>
+            <zone points="1871,1890 2762,1904 2802,1898 2803,1833 2340,1849 2180,1805 2115,1837 1919,1809 1872,1832" rendition="Line" xml:id="facs_51_r1l39"/>
+            <zone points="1884,1971 1998,1999 2089,1968 2757,1981 2820,1970 2820,1921 2422,1925 2302,1893 1884,1928" rendition="Line" xml:id="facs_51_r1l41"/>
+            <zone points="1872,2053 2500,2072 2653,2046 2759,2079 2834,2054 2835,2009 2258,1985 2218,2010 2094,1977 1873,1998" rendition="Line" xml:id="facs_51_r1l43"/>
+            <zone points="1848,2139 2805,2150 2806,2098 2700,2067 2581,2091 2360,2064 2267,2091 2217,2065 2128,2087 1849,2058" rendition="Line" xml:id="facs_51_r1l45"/>
+            <zone points="1878,2215 2410,2232 2541,2202 2767,2231 2801,2220 2802,2157 1878,2157" rendition="Line" xml:id="facs_51_r1l47"/>
+            <zone points="1874,2292 2055,2318 2207,2287 2250,2311 2769,2309 2769,2247 2688,2241 1874,2247" rendition="Line" xml:id="facs_51_r1l49"/>
+            <zone points="1878,2372 2720,2393 2780,2387 2781,2330 2492,2325 2460,2301 2409,2336 2342,2313 2153,2331 2096,2300 1878,2317" rendition="Line" xml:id="facs_51_r1l51"/>
+            <zone points="1880,2461 2197,2477 2538,2442 2736,2466 2825,2454 2825,2380 2646,2414 2505,2386 2189,2409 2127,2384 2040,2411 1880,2387" rendition="Line" xml:id="facs_51_r1l52"/>
+            <zone points="1858,2533 2825,2552 2825,2491 2650,2461 2517,2493 2350,2461 1858,2497" rendition="Line" xml:id="facs_51_r1l54"/>
+            <zone points="1839,2621 2792,2616 2792,2558 2760,2553 2572,2575 2404,2535 2276,2571 1964,2552 1908,2577 1840,2544" rendition="Line" xml:id="facs_51_r1l56"/>
+            <zone points="1874,2703 2510,2694 2683,2735 2813,2710 2796,2650 2575,2656 2521,2622 2380,2654 2149,2619 2071,2657 1960,2628 1874,2653" rendition="Line" xml:id="facs_51_r1l58"/>
+            <zone points="1877,2787 2722,2809 2814,2793 2815,2742 2719,2720 2512,2746 2443,2720 2203,2744 2082,2716 1973,2738 1927,2715 1877,2737" rendition="Line" xml:id="facs_51_r1l61"/>
+            <zone points="1870,2869 2250,2897 2589,2865 2790,2892 2775,2818 2700,2835 2612,2800 2395,2831 2248,2831 2184,2795 1871,2825" rendition="Line" xml:id="facs_51_r1l63"/>
+            <zone points="1866,2956 2793,2981 2778,2894 1866,2906" rendition="Line" xml:id="facs_51_r1l65"/>
+            <zone points="1872,3044 2389,3042 2456,3080 2552,3041 2606,3075 2663,3043 2798,3051 2776,2974 2438,3002 2191,2960 2103,2998 1872,2960" rendition="Line" xml:id="facs_51_r1l67"/>
+            <zone points="1868,3128 2139,3124 2213,3156 2388,3120 2679,3135 2798,3122 2798,3051 2473,3083 2429,3058 2398,3087 2315,3061 1867,3068" rendition="Line" xml:id="facs_51_r1l69"/>
+            <zone points="1861,3205 2661,3209 2731,3243 2796,3215 2796,3157 2452,3166 2385,3138 2191,3165 1994,3130 1861,3169" rendition="Line" xml:id="facs_51_r1l71"/>
+            <zone points="1868,3289 2153,3312 2829,3285 2829,3230 2638,3238 2592,3210 2395,3244 2195,3207 2102,3240 1868,3228" rendition="Line" xml:id="facs_51_r1l73"/>
+            <zone points="1856,3373 2810,3382 2810,3288 2570,3302 2524,3332 2324,3300 1941,3334 1855,3306" rendition="Line" xml:id="facs_51_r1l75"/></zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+           <pb facs="#facs_51" n="51" xml:id="img_0051"/><ab facs="#facs_51_TextRegion_1624278522774_1039" type="">
+               <lb facs="#facs_51_r1l2" n="N001"/>⁊ ſacrificiū obtuliſtiſ mͥ in deſerto qͣ
+               <lb facs="#facs_51_r1l4" n="N002"/>draginta anniſ domꝰ iſrĺ˜. Et poꝛtaſtiᷤ
+               <lb facs="#facs_51_r1l6" n="N003"/>tab́naculū moloch ur̄o; ⁊ imaginē
+               <lb facs="#facs_51_r1l8" n="N004"/>iꝺoloꝝ ur̄oꝝ. ſiꝺꝰ dei ur̄i quē feciſtis 
+               <lb facs="#facs_51_r1l10" n="N005"/>uob́. Et migrare uoſ faciā tranſ ꝺa
+               <lb facs="#facs_51_r1l12" n="N006"/>maſcū dicit dn̄ſ; deuſ exercituū no
+               <lb facs="#facs_51_r1l14" n="N007"/>m eiꝰ. Ve qͥ opulenti eſtiſ in ſyon. ⁊ cō
+               <lb facs="#facs_51_r1l16" n="N008"/>fiditiſ in monte ſamarie; optimateſ
+               <lb facs="#facs_51_r1l18" n="N009"/>capita ppĺoꝛ. īǵꝺienteſ pompatice
+               <lb facs="#facs_51_r1l20" n="N010"/>domꝰ iſrĺ. Tranſite ī chalanne ⁊ uiꝺe
+               <lb facs="#facs_51_line_1624278522870_1044" n="N011"/>te; ⁊ ite inꝺe ī emath magnū. ⁊ de
+               <lb facs="#facs_51_r1l24" n="N012"/>ſcendite ī geth paleſtinoꝝ. ⁊ aꝺ opti
+               <lb facs="#facs_51_r1l26" n="N013"/>ma queqꝫ regna hoꝝ; ſi latioꝛ t̾minꝰ
+               <lb facs="#facs_51_r1l28" n="N014"/>eoꝝ t̾mino ur̄o ē; qͥ ſeparati eſtiſ in
+               <lb facs="#facs_51_r1l30" n="N015"/>diē malū. ⁊ appropinqͣtiſ ſolio iniqͥ
+               <lb facs="#facs_51_r1l32" n="N016"/>tatiſ; qͥ doꝛmitiſ in lectiſ eburneiſ; et
+               <lb facs="#facs_51_r1l34" n="N017"/>laſciuitiſ ī ſtratiſ ur̄iſ; qͥ comeꝺitiᷤ
+               <lb facs="#facs_51_r1l36" n="N018"/>agnū de grege· ⁊ uituloſ de meꝺio
+               <lb facs="#facs_51_r1l38" n="N019"/>armenti; qui canitiſ aꝺ uocē pſal
+               <lb facs="#facs_51_r1l40" n="N020"/>terii. Dicut dauiꝺ putauert̾ ſe ha
+               <lb facs="#facs_51_r1l42" n="N021"/>bere uaſa cantici; bibenteſ ī fialiſ
+               <lb facs="#facs_51_r1l44" n="N022"/>uinū ⁊ optimo unguento delibuti;
+               <lb facs="#facs_51_r1l46" n="N023"/>⁊ nichil patiebantur ſuꝑ contriclo
+               <lb facs="#facs_51_r1l48" n="N024"/>one iofeph. Qua ꝓpt̾ nunc migrabt̄
+               <lb facs="#facs_51_r1l50" n="N025"/>ī capite tnͣſ̈migrantiū; ⁊ auferet˜ fa
+               <lb facs="#facs_51_r1l53" n="N026"/>ctio laſciuientiū. Iurauit dn̄ſ d́s ī
+               <lb facs="#facs_51_r1l55" n="N027"/>animā ſuā; dicit dn̄ſ ꝺ́s ex exercituū·
+               <lb facs="#facs_51_r1l57" n="N028"/>De teſtoꝛ ego ſuꝑbiā iacob; ⁊ domoſ eiꝰ
+               <lb facs="#facs_51_r1l59" n="N029"/>odi; ⁊ traclā ciuitatē cū habitatoꝛibꝰ
+               <lb facs="#facs_51_r1l60" n="N030"/>ſuiſ· Qꝺ́ ſi reliqͥ fuerint decē uiri in
+               <lb facs="#facs_51_r1l62" n="N031"/>ꝺomo una; ⁊ ip̄ſi morient˜; ⁊ tollet eū
+               <lb facs="#facs_51_r1l64" n="N032"/>ꝓpinquuſ ſuuſ ⁊ conburet eū. ut effe
+               <lb facs="#facs_51_r1l66" n="N033"/>rat oſſa de domo· Et dicet ei qͥ ī pene
+               <lb facs="#facs_51_r1l68" n="N034"/>trabilibꝰ domꝰ ē· Nūqͥꝺ aꝺhuc ē apuꝺ
+               <lb facs="#facs_51_r1l70" n="N035"/>te; Et reſponꝺebit· Finiſ ē· Et ꝺicet
+               <lb facs="#facs_51_r1l72" n="N036"/>ei· Tace; ⁊ n̄ recoꝛꝺeriſ nōiſ dn̄i; qͥa ec
+               <lb facs="#facs_51_r1l74" n="N037"/>ce dn̄ſ manꝺabit. ⁊ ꝑcutiet domum
+            </ab><ab facs="#facs_51_TextRegion_1624278522774_1038" type="">
+               <lb facs="#facs_51_r1l3" n="N001"/>maiorē<wording_change> in ruiniſ;</wording_change> ⁊ domū minoꝛē ſciſſi
+               <lb facs="#facs_51_r1l5" n="N002"/>onibꝰ. Nūqͥꝺ currere queunt ī petris
+               <lb facs="#facs_51_r1l7" n="N003"/>equi; aut arari poteſt ī bubaliſ; Qm̄ cō
+               <lb facs="#facs_51_r1l9" n="N004"/>uertiſtiſ in amarituꝺinē uiꝺiciū· et
+               <lb facs="#facs_51_r1l11" n="N005"/>fructū iuſticie ī abſinthiū; qͥ letami
+               <lb facs="#facs_51_r1l13" n="N006"/>ni ī nichili; qͥ dicitiſ. Nūqͥꝺ n̄ in foꝛti
+               <lb facs="#facs_51_r1l15" n="N007"/>tuꝺine nr̄a aſſumpſimꝰ nob́ coꝛnua. Ec
+               <lb facs="#facs_51_r1l17" n="N008"/>ce ego ſuſcitabo ſuꝑ uoſ domꝰ iſrĺ ꝺiē
+               <lb facs="#facs_51_r1l19" n="N009"/>dn̄ſ ꝺ́s exercituū genteſ; ⁊ conterent
+               <lb facs="#facs_51_r1l21" n="N010"/>uoſ ab ī trottu emath· uſq; aꝺ toꝛrentē
+               <lb facs="#facs_51_r1l23" n="N011"/>deſerti. Hec ōſtenꝺit mͥ dn̄ſ ꝺ́s. Et ec
+               <lb facs="#facs_51_r1l25" n="N012"/>ce fictoꝛ locuſte in pͥncipio g̾minantiū
+               <lb facs="#facs_51_r1l27" n="N013"/>ſerotini imbriſ; ⁊ ecce ſerotinuſ pꝰ ton
+               <lb facs="#facs_51_r1l29" n="N014"/>ſorē gregiſ. Et factū eſt cū ꝯſūmaſ
+               <lb facs="#facs_51_r1l31" n="N015"/>ſet comeꝺ̾e herbā t̾re; ⁊ ꝺixi· Dn̄e ꝺ́s
+               <lb facs="#facs_51_r1l33" n="N016"/>ꝓpiciꝰ eſto obſecro· Quiſ ſuſcitabit ia
+               <lb facs="#facs_51_r1l35" n="N017"/>cob qͥa paruuluſ ē; Miſertꝰ ē dn̄ſ ſuꝑ
+               <lb facs="#facs_51_r1l37" n="N018"/>hoc; n̄ erit dixit dn̄ſ ꝺ́s. Hec oſtenꝺit
+               <lb facs="#facs_51_r1l39" n="N019"/>mͥ dnſ ꝺ́s. Et ecce uocauit iudiciū
+               <lb facs="#facs_51_r1l41" n="N020"/>aꝺ ignē dn̄ſ ꝺ́s; ⁊ deuorauit abiſſum
+               <lb facs="#facs_51_r1l43" n="N021"/>multā; ⁊ comeꝺit ſimul partē. Et ꝺixi.
+               <lb facs="#facs_51_r1l45" n="N022"/>Dn̄e d́s quieſce obſecro. Quiſ ſuſctta
+               <lb facs="#facs_51_r1l47" n="N023"/>bit lacob qͥa paruuluſ ē; Miſeriꝰ eſt
+               <lb facs="#facs_51_r1l49" n="N024"/>dn̄ſ ſuꝑ hoc; ſeꝺ ⁊ iſtuꝺ n̄ erit dixit
+               <lb facs="#facs_51_r1l51" n="N025"/>dn̄ſ ꝺ́s. Hec oſtenꝺit mͥ dn̄ſ·  Et ecce
+               <lb facs="#facs_51_r1l52" n="N026"/>dn̄ſ ſtanſ ſuꝑ murū litū· ⁊ ī manu eiꝰ
+               <lb facs="#facs_51_r1l54" n="N027"/>trulla cem̾tarii. Et dixit dn̄ſ aꝺ me·
+               <lb facs="#facs_51_r1l56" n="N028"/>Quiꝺ tu uiꝺeſ amoſ; Et ꝺixi. Trullā
+               <lb facs="#facs_51_r1l58" n="N029"/>cem̾tarii. Et dixit dn̄ſ. Ecce ego po
+               <lb facs="#facs_51_r1l61" n="N030"/>nā trullā in meꝺio ppĺi mei iſrĺ· Non 
+               <lb facs="#facs_51_r1l63" n="N031"/>aꝺiciā ultͣ ſuꝑ induōe eū; ⁊ demoli
+               <lb facs="#facs_51_r1l65" n="N032"/>ent˜ excelſa iꝺoli; ⁊ ſc̄ificationeſ iſrĺ
+               <lb facs="#facs_51_r1l67" n="N033"/>deſolabunt˜; ⁊ conſurgā ſuꝑ domū
+               <lb facs="#facs_51_r1l69" n="N034"/>hieroboā in glaꝺio. Et miſit amaſi
+               <lb facs="#facs_51_r1l71" n="N035"/>aſ ſac̾doſ bethel· ad hieroboā regē
+               <lb facs="#facs_51_r1l73" n="N036"/>iſrĺ dicenſ· Rebellauit contͣ te amos
+               <lb facs="#facs_51_r1l75" n="N037"/>ī meꝺio ꝺomꝰ iſrĺ; n̄ poterit t̾ra ſuſtin̾e
+            </ab>
+         </div>
+      </body>
+   </text>
+</TEI>
