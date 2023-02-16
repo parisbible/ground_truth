@@ -1,4 +1,4 @@
-# Paris Bible Project model 1.0
+# Paris Bible Project model 1.0 (PBP 1.0) 
 
 This folder contains most of the ground truth used to train the PBP 1.0 model in Transkribus with Pylaia. Here you will find the GT for the documents which are publicly available, (approximately 20% of the folios used for model training are not included). 
 
